@@ -1,0 +1,42 @@
+:root {
+    font-family: monospace;
+    background-color: black;
+  }
+
+  body {
+    margin: 0;
+  }
+  
+  p {
+    backdrop-filter: blur(1rem);
+  }
+  
+  #greeting {
+    position: fixed;
+    letter-spacing: .2rem;
+    color: #FFFFFF;
+    margin-left: 10vw;
+    margin-top: 10vw;
+  }
+
+  #greeting .header1 {
+      font-size: 3rem;
+  }
+
+  .header1 {
+    font-size: 2rem;
+    margin-bottom: 0;
+  }
+
+  .header2 {
+    font-size: 1.4rem;
+    margin-top: -1px;
+  }
+
+  #description {
+    position: fixed;
+    margin-top: 45vh;
+    margin-left: 50vw;
+    font-size: 2rem;
+    color: #FFFFFF;
+  }

@@ -1,2 +1,0 @@
-# birbkeks.github.io
-owo
